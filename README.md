@@ -1,8 +1,7 @@
 <h1 align="center">TrustBox: Document Integrity Platform</h1>
 
 <p align="center">
-  <strong>Verify what hasn't changed with cryptographic certainty.</strong>
-  <strong>Deployed Link : trustbox.netlify.app</strong>
+  <strong>Verify what hasn't changed with cryptographic certainty.</strong><br></br><strong>Deployed Link : trustbox.netlify.app</strong>
 </p>
 
 ## Overview
