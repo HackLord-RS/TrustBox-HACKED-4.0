@@ -1,0 +1,5 @@
+{
+  "name": "TrustBox v1",
+  "description": "A professional-grade cryptographic document integrity verification platform. Securely compare documents using SHA-256 hashing to ensure mathematical identity.",
+  "requestFramePermissions": []
+}
